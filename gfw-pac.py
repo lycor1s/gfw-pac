@@ -13,7 +13,7 @@ import urllib.request, urllib.error, urllib.parse
 from argparse import ArgumentParser
 import base64
 
-gfwlist_url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
+gfwlist_url = 'https://cdn.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt'
 
 
 def parse_args():
