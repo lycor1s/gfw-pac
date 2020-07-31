@@ -162,7 +162,7 @@ def parse_gfwlist(gfwlist):
 def reduce_domains(domains):
     # reduce 'www.google.com' to 'google.com'
     # remove invalid domains
-    with open('./tld.txt', 'r') as f:
+    with open('./tld.txt', 'r',encoding='utf-8') as f:
             tld_content = f.read()
     tlds = set(tld_content.splitlines(False))
     new_domains = set()
