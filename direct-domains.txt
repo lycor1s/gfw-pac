@@ -64,6 +64,7 @@ baixing.com
 bdimg.com
 bdstatic.com
 bilibili.tv
+bilibili.com
 blogbus.com
 blueidea.com
 ccb.com
@@ -375,3 +376,4 @@ jddebug.com
 360hu.com
 cmpassport.com
 monknow.com
+kaid.cf
