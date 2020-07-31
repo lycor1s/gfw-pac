@@ -1,3 +1,5 @@
+// 下午10: 26
+// 2020年7月31日
 var proxy = "PROXY 127.0.0.1:1080; DIRECT";
 
 var direct = 'DIRECT;';
