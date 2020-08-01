@@ -38461,6 +38461,7 @@ var directDomains = {
   "kaichengschool.com": 1,
   "kaicong.info": 1,
   "kaicool.com": 1,
+  "kaid.cf": 1,
   "kaidanbao.com": 1,
   "kaidianbang.com": 1,
   "kaidiwen.com": 1,
