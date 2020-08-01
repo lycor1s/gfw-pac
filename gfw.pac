@@ -45188,6 +45188,7 @@ var directDomains = {
   "mongochina.com": 1,
   "mongrace.com": 1,
   "monizl.com": 1,
+  "monknow.com": 1,
   "monmanlightingandbath.com": 1,
   "monph.com": 1,
   "monroepaintballworks.com": 1,
